@@ -1,4 +1,4 @@
-# PARTICLE-STUDIO — Hand Particle Playground
+# PARTICLEX-STUDIO — Hand Particle Playground
 
 React + Three.js + MediaPipe hand tracking website with a glowing viral-style particle effect.
 
