@@ -428,7 +428,7 @@ export default function App() {
           <p className="privacy-note">🔒 Camera processing stays in your browser. Video is not uploaded by this website.</p>
         </aside>
       </section>
-      <footer><span>BUILT FOR CURIOUS HANDS</span><span>MOVE · CREATE · PLAY</span><span>MEDIAPIPE + THREE.JS</span></footer>
+      <footer><span>BUILT FOR CURIOUS HANDS</span><span>MOVE · CREATE · PLAY</span><span> @ SAMARPIT SHIKHARE</span></footer>
     </main>
   );
 }
